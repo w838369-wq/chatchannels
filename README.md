@@ -68,6 +68,7 @@ npm start
 ```
 
 Visit `http://localhost:3000`
+- To test multi-user chat, open the app in two different browsers (e.g. Chrome + Firefox) or use a regular window and a private/incognito window.
 
 ## Design Decisions
 
