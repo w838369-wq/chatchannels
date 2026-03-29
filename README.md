@@ -4,7 +4,7 @@ A real-time multi-channel chat application built with vanilla JavaScript and Nod
 
 ## Demo
 
-> Live demo: [your-deploy-url]
+> Live demo: [your-deploy-url](https://chatchannels.onrender.com)
 
 ## Features
 
